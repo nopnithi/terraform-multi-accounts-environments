@@ -1,0 +1,5 @@
+aws_account_id   = "222222222222"
+provider1_region = "ap-southeast-1"
+provider1_name   = "singapore"
+provider2_region = "ap-northeast-1"
+provider2_name   = "tokyo"
